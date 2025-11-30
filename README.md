@@ -75,6 +75,12 @@ npm start
 
 Visit `http://localhost:3000`
 
+## 🌐 Live Demo
+
+**Frontend**: https://certificate-validator-nine.vercel.app/
+
+Connect your MetaMask wallet to Sepolia testnet and start issuing/verifying certificates!
+
 ## 📝 Usage
 
 ### Issue Certificate
