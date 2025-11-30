@@ -11,7 +11,7 @@
 
 *Upload certificates to IPFS • Verify on blockchain • Tamper-proof validation*
 
-[Live App](https://certificate-validator-nine.vercel.app/) • [Smart Contract](https://sepolia.etherscan.io/address/0xB55f334eab6795449554E96CF4614de4AaE1b846) • [Report Bug](https://github.com/Jeet-Patil/Certificate-Validator/issues)
+[Live App](https://certificate-validator-nine.vercel.app/) • [Smart Contract](https://sepolia.etherscan.io/address/0x2F955D735df0268F37EfEE68aD409d0E928aD890) • [Report Bug](https://github.com/Jeet-Patil/Certificate-Validator/issues)
 
 </div>
 
@@ -231,7 +231,7 @@ Our smart contract includes several gas-saving techniques:
 ### Deployed Contract
 ```
 Network: Sepolia Testnet
-Address: 0xB55f334eab6795449554E96CF4614de4AaE1b846
+Address: 0x2F955D735df0268F37EfEE68aD409d0E928aD890
 ```
 
 ### Key Functions
